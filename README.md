@@ -1,0 +1,2 @@
+# mygo1
+test
